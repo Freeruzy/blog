@@ -7,7 +7,6 @@
       <url>/blog/2017/08/18/%E5%AE%B6%E4%BA%BA%E6%B8%B8%E7%8E%A9/</url>
       <content type="html"><![CDATA[<p>放暑假了，老爸老妈陪同爷爷奶奶还有姥姥来北京游玩。<br><img src="https://freeruzy.github.io/blog/img/刚来.jpg" alt="北京站"><br><a id="more"></a></p>
 <p><img src="https://freeruzy.github.io/blog/img/我们.jpg" alt="有我哦"></p>
-<p><img src="https://freeruzy.github.io/blog/img/游玩.jpg" alt=""></p>
 <p><img src="https://freeruzy.github.io/blog/img/长城.jpg" alt="长城"></p>
 ]]></content>
       
@@ -28,7 +27,7 @@
     
     <entry>
       <title><![CDATA[梦乡]]></title>
-      <url>/blog/2017/08/18/art_test/</url>
+      <url>/blog/2017/08/18/%E8%AF%97_%E6%A2%A6%E4%B9%A1/</url>
       <content type="html"><![CDATA[<p>感同身受，加班狗的白日梦。<br><a id="more"></a></p>
 <p></p><h2 align="center">梦乡</h2><p></p>
 <p><div align="center" style="font-family:arial;color:#98bf21;font-size:20px;"><br>寂寞的夜晚<br>一个人对着银屏呆坐<br>一杯咖啡品过<br>些许香味有点苦涩<br>一盅盅酒独酌<br>口中沾着辛辣<br>胃里翻腾着酸浊<br>一碗清水相伴着<br>痴梦留给白天做<br></div><br><br></p>
@@ -80,35 +79,6 @@ margin-bottom: 25px;
         <tags>
             
             <tag> Web UI </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>/blog/2017/08/18/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-      
-        <categories>
-            
-            <category> Hello </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> install </tag>
             
         </tags>
         
