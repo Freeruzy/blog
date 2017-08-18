@@ -3,16 +3,70 @@
   
     
     <entry>
+      <title><![CDATA[游与北京]]></title>
+      <url>/blog/2017/08/18/%E5%AE%B6%E4%BA%BA%E6%B8%B8%E7%8E%A9/</url>
+      <content type="html"><![CDATA[<p>放暑假了，老爸老妈陪同爷爷奶奶还有姥姥来北京游玩。<br><img src="https://freeruzy.github.io/blog/img/刚来.jpg" alt="北京站"><br><a id="more"></a></p>
+<p><img src="https://freeruzy.github.io/blog/img/我们.jpg" alt="有我哦"></p>
+<p><img src="https://freeruzy.github.io/blog/img/游玩.jpg" alt=""></p>
+<p><img src="https://freeruzy.github.io/blog/img/长城.jpg" alt="长城"></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 相片 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 家人 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[梦乡]]></title>
+      <url>/blog/2017/08/18/art_test/</url>
+      <content type="html"><![CDATA[<p>感同身受，加班狗的白日梦。<br><a id="more"></a></p>
+<p></p><h2 align="center">梦乡</h2><p></p>
+<p><div align="center" style="font-family:arial;color:#98bf21;font-size:20px;"><br>寂寞的夜晚<br>一个人对着银屏呆坐<br>一杯咖啡品过<br>些许香味有点苦涩<br>一盅盅酒独酌<br>口中沾着辛辣<br>胃里翻腾着酸浊<br>一碗清水相伴着<br>痴梦留给白天做<br></div><br><br></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 文采 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 打油 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[HTML5/CSS3]]></title>
       <url>/blog/2017/08/18/Web%E5%89%8D%E7%AB%AFHTML-CSS/</url>
-      <content type="html"><![CDATA[<h3 id="runoob菜鸟教程"><a href="#runoob菜鸟教程" class="headerlink" title="runoob菜鸟教程"></a><a href="http://www.runoob.com" target="_blank" rel="external">runoob菜鸟教程</a></h3><blockquote>
+      <content type="html"><![CDATA[<p>活到老，学到老。从头整理学习各种IT技术，先从WEB前端开始。Fighting！</p>
+<h3 id="runoob菜鸟教程"><a href="#runoob菜鸟教程" class="headerlink" title="runoob菜鸟教程"></a><a href="http://www.runoob.com" target="_blank" rel="external">runoob菜鸟教程</a></h3><a id="more"></a>
+<blockquote>
 <p>HTML基础</p>
 <p>CSS基础</p>
 <p>HTML5扩展</p>
 <p>CSS3扩展</p>
 </blockquote>
 <p><strong>主要记住常用各标签元素属性即可</strong><br>前端UI页面学习记录</p>
-<p><img src="" alt="Free Icon"></p>
+<h3 id="收集到的不错的颜色搭配属性"><a href="#收集到的不错的颜色搭配属性" class="headerlink" title="收集到的不错的颜色搭配属性"></a>收集到的不错的颜色搭配属性</h3><div style="color:#d0e4fe;display:inline-block">#d0e4fe</div>    <div style="color:#98bf21;display:inline-block">#98bf21</div>    <div style="color:#A7C942;display:inline-block">#A7C942</div>    <div style="color:#EAF2D3;display:inline-block">#EAF2D3</div>    <div style="color:#f1f1f1;display:inline-block">#f1f1f1</div>    <div style="color:#4CAF50;display:inline-block">#4CAF50</div>    <div style="color:#3e8e41;display:inline-block">#3e8e41</div>
+
+<h3 id="卡片阴影效果"><a href="#卡片阴影效果" class="headerlink" title="卡片阴影效果"></a>卡片阴影效果</h3><pre><code class="bash">background-color: white;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin-bottom: 25px;
+</code></pre>
 <p>请关注我的<a href="https://freeruzy.github.io/"><em>个人Blog</em></a></p>
 ]]></content>
       
@@ -34,9 +88,9 @@
     <entry>
       <title><![CDATA[Hello World]]></title>
       <url>/blog/2017/08/18/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a><br><a id="more"></a></p>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
