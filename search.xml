@@ -3,6 +3,37 @@
   
     
     <entry>
+      <title><![CDATA[版本控制Git记述]]></title>
+      <url>/blog/2017/08/23/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6Git%E8%AE%B0%E8%BF%B0/</url>
+      <content type="html"><![CDATA[<h2 id="进化史"><a href="#进化史" class="headerlink" title="进化史"></a>进化史</h2><h6 id="本地版本控制系统"><a href="#本地版本控制系统" class="headerlink" title="本地版本控制系统"></a>本地版本控制系统</h6><p>许多人习惯用复制整个项目目录的方式来保存不同的版本，或许还会改名加上备份时间以示区别。 这么做唯一的好处就是简单，但是特别容易犯错。 有时候会混淆所在的工作目录，一不小心会写错文件或者覆盖意想外的文件。</p>
+<p>为了解决这个问题，人们很久以前就开发了许多种本地版本控制系统，大多都是采用某种简单的数据库来记录文件的历次更新差异。<br><img src="http://upload-images.jianshu.io/upload_images/7267998-411044de5e4ef195.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="本地版本控制系统"></p>
+<h6 id="集中化的版本控制系统"><a href="#集中化的版本控制系统" class="headerlink" title="集中化的版本控制系统"></a>集中化的版本控制系统</h6><p>接下来人们又遇到一个问题，如何让在不同系统上的开发者协同工作？ 于是，集中化的版本控制系统(Centralized Version Control Systems，简称 CVCS)应运而生。这么做最显而易见的缺点是中央服务器的单点故障。 如果宕机一小时，那么在这一小时内，谁都无法提交更新，也就无法协同工作。 如果中心数据库所在的磁盘发生损坏，又没有做恰当备份，毫无疑问您将丢失所有数据——包括项目的整个变更历史，只剩下人们在各自机器上保留的单独快照。本地版本控制系统也存在类似问题，只要整个项目的历史记录被保存在单一位置，就有丢失所有历史更新记录的风险。<br> <img src="http://upload-images.jianshu.io/upload_images/7267998-80200a357f9e4037.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="集中化的版本控制系统"></p>
+<h6 id="分布式版本控制系统"><a href="#分布式版本控制系统" class="headerlink" title="分布式版本控制系统"></a>分布式版本控制系统</h6><p>于是分布式版本控制系统(Distributed Version Control System，简称 DVCS)面世了<br> <img src="http://upload-images.jianshu.io/upload_images/7267998-a4d112c2da03081a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="分布式版本控制系统"></p>
+<h2 id="Git-最常用的命令"><a href="#Git-最常用的命令" class="headerlink" title="Git 最常用的命令"></a>Git 最常用的命令</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git clone [url]</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git push [远程路径（orgin）]  [本地分支（master）]:[refs/for(heads)/远程分支（master）]</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git pull</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">git log</div><div class="line">git show [commitId]</div><div class="line">git diff</div><div class="line">git status</div><div class="line">git add .</div><div class="line">git commit -m &quot;[string]&quot;</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git config -l</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git reset --hard [commitId]</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">git branch -a</div><div class="line">git checkout -b</div></pre></td></tr></table></figure>
+]]></content>
+      
+        <categories>
+            
+            <category> Tools </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[游与北京]]></title>
       <url>/blog/2017/08/18/%E5%AE%B6%E4%BA%BA%E6%B8%B8%E7%8E%A9/</url>
       <content type="html"><![CDATA[<p>放暑假了，老爸老妈陪同爷爷奶奶还有姥姥来北京游玩。</p>
